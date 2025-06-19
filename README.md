@@ -19,7 +19,13 @@ Supports smooth mouse and touch rotation with optional OrbitControls integration
 
 ---
 
+## Installation
 
+```bash
+npm install r3f-object-controls
+# or
+yarn add r3f-object-controls
+```
 
 ---
 
