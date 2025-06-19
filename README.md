@@ -3,6 +3,9 @@
 A lightweight custom rotation control component for [React Three Fiber](https://github.com/pmndrs/react-three-fiber).  
 Supports smooth mouse and touch rotation with optional OrbitControls integration.
 
+* ThreeJS orbit controls were designed to make the camera orbit around a target in your scene. This is ideal for exploring a scene from different angles while keeping a central point in focus. 
+* In contrast, our R3F object controls allow you to rotate the target object itself within the scene. This is perfect when you want to directly manipulate and inspect a specific 3D model. 
+
 ---
 
 ## Features
