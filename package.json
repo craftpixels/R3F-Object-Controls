@@ -1,0 +1,45 @@
+{
+  "name": "r3f-object-controls",
+  "version": "1.0.1",
+  "main": "dist/r3f-object-controls.cjs.js",
+  "module": "dist/r3f-object-controls.es.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react-three-fiber",
+    "r3f",
+    "three.js",
+    "controls",
+    "object control",
+    "r3f-object-controls"
+  ],
+  "author": "Craftpixels",
+  "license": "MIT",
+  "description": "Plug-and-play object rotation for R3F with mouse and touch controls.",
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.5.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "rollup": "^4.43.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-dts": "^4.5.4"
+  },
+  "peerDependencies": {
+    "@react-three/fiber": "^9.1.2",
+    "react": ">=18",
+    "react-dom": ">=18",
+    "three": "^0.177.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.177.0"
+  }
+}
