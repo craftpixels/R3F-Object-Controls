@@ -18,8 +18,11 @@ Supports smooth mouse and touch rotation with optional OrbitControls integration
 - ✅ Plug-and-play React component
 
 ---
-
-
+## Screenshot
+### Orbit Controls Demo
+![Demo](Orbit.gif)
+### Object Controls Demo
+![Demo](object.gif)
 
 ---
 
