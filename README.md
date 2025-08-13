@@ -1,8 +1,9 @@
 # R3F Object Controls
 
 ---
-### Orbit Controls Demo | ### Object Controls Demo
-![Demo](Orbit.gif) | ![Demo](object.gif)
+| ### Orbit Controls Demo | ### Object Controls Demo |
+| ----------------------- | ------------------------ |
+| ![Orbit Demo](Orbit.gif) | ![Object Demo](object.gif) |
 
 A lightweight custom rotation control component for [React Three Fiber](https://github.com/pmndrs/react-three-fiber).  
 Supports smooth mouse and touch rotation with optional OrbitControls integration.
